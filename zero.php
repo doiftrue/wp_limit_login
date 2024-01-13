@@ -1,9 +1,7 @@
 <?php
-
-/*
- *
+/**
  * @version 4.0
- * @requires_php 7.0
+ * @requires PHP 7.0
  */
 
 namespace KamaLimitLogin;
